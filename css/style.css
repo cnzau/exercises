@@ -39,3 +39,11 @@ body {
 	     -o-transform: skew(20deg);
 	background: green;
 }
+
+.trapezium {
+    border-bottom: 100px solid white;
+	border-left: 50px solid transparent;
+	border-right: 50px solid transparent;
+	height: 0;
+	width: 100px;
+}
