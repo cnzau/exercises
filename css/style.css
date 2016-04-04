@@ -18,3 +18,9 @@ body {
 	border-right: 50px solid transparent;
 	border-bottom: 100px solid blue;
 }
+
+.square {
+    width: 100px;
+	height: 100px;
+	background: red;
+}
